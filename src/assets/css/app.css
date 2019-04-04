@@ -1,7 +1,11 @@
 * { box-sizing: border-box; margin: 0; padding: 0; }
 a { text-decoration: none; color: #ff3502 }
 input, button, textarea { font-family: inherit; }
-h1, h2, h3, h4, h5, h6 { font-weight: normal; }
+h1, h2, h3, h4, h5, h6
+{ 
+    font-weight: normal; 
+    text-align: left;
+}
 em { font-style: normal !important; }
 html, body {
   height: 100%;
